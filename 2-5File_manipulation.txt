@@ -1,0 +1,6 @@
+Nowadays globally security has become a major problem. And if some whistleblowers reveal or 
+leak any kind of confidential information to other countries or companies it would be a huge 
+struggle for the companies so we have introduced a new technique of safeguarding the documents 
+such as records project files and driver link using a QR code This code may be used so that only 
+few people who are eligible for accessing the document can access the document by scanning 
+the QR code
